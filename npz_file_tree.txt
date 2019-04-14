@@ -1,0 +1,462 @@
+./npz
+└── wavenet
+    ├── causal_layer
+    │   └── filter.npz
+    ├── dilated_stack
+    │   ├── layer0
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer1
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer10
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer11
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer12
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer13
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer14
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer15
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer16
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer17
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer18
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer19
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer2
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer20
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer21
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer22
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer23
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer24
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer25
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer26
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer27
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer28
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer29
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer3
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer30
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer31
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer32
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer33
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer34
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer35
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer36
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer37
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer38
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer39
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer4
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer40
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer41
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer42
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer43
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer44
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer45
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer46
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer47
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer48
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer49
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer5
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer6
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer7
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   ├── layer8
+    │   │   ├── Variable.npz
+    │   │   ├── Variable_1.npz
+    │   │   ├── Variable_2.npz
+    │   │   ├── Variable_3.npz
+    │   │   ├── dense.npz
+    │   │   ├── filter.npz
+    │   │   ├── gate.npz
+    │   │   └── skip.npz
+    │   └── layer9
+    │       ├── Variable.npz
+    │       ├── Variable_1.npz
+    │       ├── Variable_2.npz
+    │       ├── Variable_3.npz
+    │       ├── dense.npz
+    │       ├── filter.npz
+    │       ├── gate.npz
+    │       └── skip.npz
+    └── postprocessing
+        ├── Variable.npz
+        ├── Variable_1.npz
+        ├── postprocess1.npz
+        └── postprocess2.npz
+
+54 directories, 405 files

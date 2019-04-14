@@ -1,0 +1,462 @@
+./h5
+└── wavenet
+    ├── causal_layer
+    │   └── filter.h5
+    ├── dilated_stack
+    │   ├── layer0
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer1
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer10
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer11
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer12
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer13
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer14
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer15
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer16
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer17
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer18
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer19
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer2
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer20
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer21
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer22
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer23
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer24
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer25
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer26
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer27
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer28
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer29
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer3
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer30
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer31
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer32
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer33
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer34
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer35
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer36
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer37
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer38
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer39
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer4
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer40
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer41
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer42
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer43
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer44
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer45
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer46
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer47
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer48
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer49
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer5
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer6
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer7
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   ├── layer8
+    │   │   ├── Variable.h5
+    │   │   ├── Variable_1.h5
+    │   │   ├── Variable_2.h5
+    │   │   ├── Variable_3.h5
+    │   │   ├── dense.h5
+    │   │   ├── filter.h5
+    │   │   ├── gate.h5
+    │   │   └── skip.h5
+    │   └── layer9
+    │       ├── Variable.h5
+    │       ├── Variable_1.h5
+    │       ├── Variable_2.h5
+    │       ├── Variable_3.h5
+    │       ├── dense.h5
+    │       ├── filter.h5
+    │       ├── gate.h5
+    │       └── skip.h5
+    └── postprocessing
+        ├── Variable.h5
+        ├── Variable_1.h5
+        ├── postprocess1.h5
+        └── postprocess2.h5
+
+54 directories, 405 files
