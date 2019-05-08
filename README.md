@@ -1,4 +1,4 @@
-# Real time speech to speech translation
+# Speech2speech Realtime translation
 
 Trying to explore the WaveNet and Tacotron-2 architectures.
 
